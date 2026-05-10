@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi, I'm Arthur 👋
 
-<!--
-**arthurdaquinosilva/arthurdaquinosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack engineer with 7+ years of experience, working primarily in **TypeScript** and **Python**. I care about software that's still readable six months later — which is why I spend as much time thinking about architecture as I do writing code.
 
-Here are some ideas to get you started:
+#### What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my experience is in **e-commerce** and **advertising** — domains where small architectural decisions compound quickly into real cost or real leverage. I tend to gravitate toward the seams: where frontend meets backend, where design systems meet scalable architecture, where a new feature meets a codebase that wasn't built for it.
+
+I came to engineering from graphic design, and I think that still shapes how I work. I see interfaces as systems, and I notice the design decisions hiding inside technical ones.
+
+#### Current focus
+
+I'm going deep on **Domain-Driven Design**, **Clean Architecture**, and **distributed systems** — building real projects to put the patterns into practice rather than just reading about them. Currently building a few things in this direction, including tooling for outbound sales workflows and a domain-modeled digital banking project.
+
+#### Stack
+
+**Languages:** TypeScript · JavaScript · Python
+**Frontend:** React · Next.js · React Native · Redux · Tailwind
+**Backend:** Node.js · Express · Django · DRF
+**Data:** PostgreSQL · MySQL · SQLite
+**Infra:** Docker · Linux
+
+#### Currently
+
+🌎 Based in Brazil, open to remote work with international teams
+💬 Happy to talk about architecture, DDD, design systems, or the gap between them
+📫 Reach me on [LinkedIn](https://linkedin.com/in/your-handle) or at arthurdaquinosilva@gmail.com
+
+---
+
+*Most of my professional work lives in private repositories. The public projects here are a mix of deliberate practice and personal projects — I'm slowly building out the public portfolio with work I'm genuinely proud of.*
