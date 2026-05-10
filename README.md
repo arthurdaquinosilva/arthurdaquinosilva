@@ -10,7 +10,7 @@ I came to engineering from graphic design, and I think that still shapes how I w
 
 #### Current focus
 
-I'm going deep on **Domain-Driven Design**, **Clean Architecture**, and **distributed systems** — building real projects to put the patterns into practice rather than just reading about them. Currently building a few things in this direction, including tooling for outbound sales workflows and a domain-modeled digital banking project.
+I'm going deep on **Domain-Driven Design**, **Clean Architecture**, and **distributed systems** — building real projects to put the patterns into practice rather than just reading about them. Currently building a few things in this direction, including tooling for outbound sales workflows.
 
 #### Stack
 
@@ -22,10 +22,10 @@ I'm going deep on **Domain-Driven Design**, **Clean Architecture**, and **distri
 
 #### Currently
 
-🌎 Based in Brazil, open to remote work with international teams
-💬 Happy to talk about architecture, DDD, design systems, or the gap between them
-📫 Reach me on [LinkedIn](https://linkedin.com/in/your-handle) or at arthurdaquinosilva@gmail.com
+- 🌎 Based in Brazil, open to remote work with international teams
+- 💬 Happy to talk about architecture, DDD, design systems, or the gap between them
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/arthur-de-aquino/) or at arthurdaquinosilva@gmail.com
 
 ---
 
-*Most of my professional work lives in private repositories. The public projects here are a mix of deliberate practice and personal projects — I'm slowly building out the public portfolio with work I'm genuinely proud of.*
+_Most of my professional work lives in private repositories. The public projects here are a mix of deliberate practice and personal projects — I'm slowly building out the public portfolio with work I'm genuinely proud of._
