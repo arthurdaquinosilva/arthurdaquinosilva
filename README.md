@@ -20,8 +20,8 @@ I came to engineering from graphic design, and that still shapes how I work — 
 
 ### Currently
 
-🌎 Based in Brazil, open to remote work with international teams
-💬 Happy to talk backend architecture, fullstack systems, or design systems
-📫 Reach me on [LinkedIn](https://linkedin.com/in/arthur-de-aquino) or at arthurdaquinosilva@gmail.com
+🌎 Based in Brazil, open to remote work with international teams  
+💬 Happy to talk backend architecture, fullstack systems, or design systems  
+📫 Reach me on [LinkedIn](https://linkedin.com/in/arthur-de-aquino) or at arthurdaquinosilva@gmail.com  
 
 The public projects here are a mix of deliberate practice and personal work — including tooling for outbound sales workflows — and I'm steadily building out the portfolio with projects I'm genuinely proud of.
