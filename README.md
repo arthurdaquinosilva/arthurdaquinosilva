@@ -1,31 +1,27 @@
-### Hi, I'm Arthur 👋
+# Hi, I'm Arthur 👋
 
-I'm a full-stack engineer with 7+ years of experience, working primarily in **TypeScript** and **Python**. I care about software that's still readable six months later — which is why I spend as much time thinking about architecture as I do writing code.
+I'm a fullstack engineer with 7+ years of experience working across TypeScript and Python. I build production systems for e-commerce and advertising — backend services and the interfaces on top of them — and I care about software that still reads clearly six months later.
 
-#### What I work on
+### What I work on
 
-Most of my experience is in **e-commerce** and **advertising** — domains where small architectural decisions compound quickly into real cost or real leverage. I tend to gravitate toward the seams: where frontend meets backend, where design systems meet scalable architecture, where a new feature meets a codebase that wasn't built for it.
+I work the full stack. On the backend, I build APIs and services with Node.js and Django/DRF — clear, documented contracts, CI/CD pipelines, and data modeled in PostgreSQL and MySQL. On the frontend, I ship React, Next.js, and React Native applications backed by real design systems.
 
-I came to engineering from graphic design, and I think that still shapes how I work. I see interfaces as systems, and I notice the design decisions hiding inside technical ones.
+Most of my experience is in e-commerce and advertising — domains where small decisions compound quickly into real cost or real leverage. I tend to gravitate toward the seams: where frontend meets backend, where a new feature meets a codebase that wasn't built for it, where cross-team handoffs either flow or stall.
 
-#### Current focus
+I came to engineering from graphic design, and that still shapes how I work — I see interfaces as systems, and I notice the design decisions hiding inside technical ones.
 
-I'm going deep on **Domain-Driven Design**, **Clean Architecture**, and **distributed systems** — building real projects to put the patterns into practice rather than just reading about them. Currently building a few things in this direction, including tooling for outbound sales workflows.
-
-#### Stack
+### Stack
 
 **Languages:** TypeScript · JavaScript · Python
-**Frontend:** React · Next.js · React Native · Redux · Tailwind
 **Backend:** Node.js · Express · Django · DRF
+**Frontend:** React · Next.js · React Native · Redux · Tailwind
 **Data:** PostgreSQL · MySQL · SQLite
 **Infra:** Docker · Linux
 
-#### Currently
+### Currently
 
-- 🌎 Based in Brazil, open to remote work with international teams
-- 💬 Happy to talk about architecture, DDD, design systems, or the gap between them
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/arthur-de-aquino/) or at arthurdaquinosilva@gmail.com
+🌎 Based in Brazil, open to remote work with international teams
+💬 Happy to talk backend architecture, fullstack systems, or design systems
+📫 Reach me on [LinkedIn](https://linkedin.com/in/arthur-de-aquino) or at arthurdaquinosilva@gmail.com
 
----
-
-_Most of my professional work lives in private repositories. The public projects here are a mix of deliberate practice and personal projects — I'm slowly building out the public portfolio with work I'm genuinely proud of._
+The public projects here are a mix of deliberate practice and personal work — including tooling for outbound sales workflows — and I'm steadily building out the portfolio with projects I'm genuinely proud of.
