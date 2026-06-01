@@ -1,14 +1,14 @@
 # Hi, I'm Arthur 👋
 
-I'm a fullstack engineer with 7+ years of experience working across TypeScript and Python. I build production systems for e-commerce and advertising — backend services and the interfaces on top of them — and I care about software that still reads clearly six months later.
+I'm a fullstack engineer with 7+ years of experience. I work in JavaScript/TypeScript and Python, mostly on production systems for e-commerce and advertising.
 
 ### What I work on
 
-I work the full stack. On the backend, I build APIs and services with Node.js and Django/DRF — clear, documented contracts, CI/CD pipelines, and data modeled in PostgreSQL and MySQL. On the frontend, I ship React, Next.js, and React Native applications backed by real design systems.
+On the backend I build APIs and services with Node.js and Django/DRF, and I document them with Swagger/OpenAPI when teams need it. I work with PostgreSQL and MySQL — querying, joining, writing SQL against existing schemas. On the frontend I ship React, Next.js, and React Native apps, usually backed by a design system.
 
-Most of my experience is in e-commerce and advertising — domains where small decisions compound quickly into real cost or real leverage. I tend to gravitate toward the seams: where frontend meets backend, where a new feature meets a codebase that wasn't built for it, where cross-team handoffs either flow or stall.
+A lot of my work sits between the two sides — building features that need the frontend, the API behind it, and the data underneath to fit together cleanly.
 
-I came to engineering from graphic design, and that still shapes how I work — I see interfaces as systems, and I notice the design decisions hiding inside technical ones.
+I came to engineering from graphic design, and that still influences how I work. I notice the UX side of technical decisions and the technical side of design decisions.
 
 ### Stack
 
@@ -21,7 +21,7 @@ I came to engineering from graphic design, and that still shapes how I work — 
 ### Currently
 
 🌎 Based in Brazil, open to remote work with international teams  
-💬 Happy to talk backend architecture, fullstack systems, or design systems  
+💬 Happy to talk backend, fullstack, or design systems  
 📫 Reach me on [LinkedIn](https://linkedin.com/in/arthur-de-aquino) or at arthurdaquinosilva@gmail.com  
 
-The public projects here are a mix of deliberate practice and personal work — including tooling for outbound sales workflows — and I'm steadily building out the portfolio with projects I'm genuinely proud of.
+The public projects here are a mix of practice and personal work, including some tooling for outbound sales workflows. I'm steadily adding things I'm proud of.
