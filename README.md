@@ -12,7 +12,7 @@ I came to engineering from graphic design, and that still influences how I work.
 
 ### Stack
 
-**Languages:** TypeScript · JavaScript · Python
+**Languages:** TypeScript · JavaScript · Python · C · C++
 **Backend:** Node.js · Express · Django · DRF
 **Frontend:** React · Next.js · React Native · Redux · Tailwind
 **Data:** PostgreSQL · MySQL · SQLite
@@ -22,6 +22,6 @@ I came to engineering from graphic design, and that still influences how I work.
 
 🌎 Based in Brazil, open to remote work with international teams  
 💬 Happy to talk backend, fullstack, or design systems  
-📫 Reach me on [LinkedIn](https://linkedin.com/in/arthur-de-aquino) or at arthurdaquinosilva@gmail.com  
+📫 Reach at arthurdaquinosilva@gmail.com  
 
 The public projects here are a mix of practice and personal work, including some tooling for outbound sales workflows. I'm steadily adding things I'm proud of.
