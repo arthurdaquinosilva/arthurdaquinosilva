@@ -1,42 +1,38 @@
-The updated profile below elevates your technical narrative by integrating the system design expertise, AI product development, and open-source tooling detailed in `arthur-de-aquino-resume-en.pdf`.
-
----
-
 # Hi, I'm Arthur 👋
 
-I am a Senior Fullstack Engineer with over 7 years of experience building production systems for the e-commerce and advertising sectors. Working primarily in TypeScript and Python, I specialize in bridging the gap between high-level software architecture and polished user experiences.
+I'm a fullstack engineer with over 7 years of experience, primarily working in TypeScript and Python. I've spent most of my career building production systems for the e-commerce and advertising sectors.
 
 ### What I work on
 
-* **Backend & Data Modeling:** I build end-to-end REST APIs with Django/DRF and Node.js, fully documenting them with Swagger/OpenAPI. I frequently remodel relational schemas, normalize duplicated data, and optimize complex queries in PostgreSQL and MySQL to support high-volume event processing.
+* **Backend & Data:** I build REST APIs with Django/DRF and Node.js, and document them using Swagger/OpenAPI to keep team integrations clear. On the database side, I work with PostgreSQL and MySQL, handling data modeling, schema normalization, and query optimization for high-volume environments.
 
 
-* **System Design & AI:** I focus heavily on distributed system design and software architecture. I prioritize pragmatic implementations of Clean Architecture and Domain-Driven Design (DDD) to ensure codebases remain scalable and maintainable. Recently, I built an AI-agent-driven product development framework, which I used hands-on to guide a non-technical startup team from ideation to a deployed release for a real-estate product.
+* **Frontend & Design:** I build interfaces using React, Next.js, and React Native. Because my background is in graphic design, I pay close attention to the UX implications of technical decisions and often use Figma to prototype and clarify requirements alongside implementation.
 
 
-* **Frontend & Design Systems:** I ship React, Next.js, and React Native applications backed by robust design systems. Coming to engineering from a graphic design background, I naturally bridge the gap between design and implementation, often producing wireframes and Figma prototypes alongside my code to cut rework and speed up iteration.
+* **Architecture & Tooling:** Recently, I have dedicated time to studying system design and software architecture to better evaluate trade-offs in distributed systems. This has involved building open-source developer tools and applying AI-driven frameworks to guide product development.
 
 
 
 ### Recent Open Source
 
-* **Querky:** A terminal-based SQL client (TypeScript) tailored for a terminal-centric workflow, featuring schema-aware autocomplete, vim mode, query aliases, and AI-powered query explanations via Groq/Ollama.
+* **Querky:** A terminal-based SQL client built in TypeScript, featuring schema-aware autocomplete, vim mode, and AI-powered query explanations via Groq/Ollama.
 
 
-* **Product Development Framework with AI:** An 11-phase, agent-agnostic framework published in English and Portuguese designed to take products from a raw idea to a deployed release.
+* **Product Development Framework with AI:** An 11-phase framework published in English and Portuguese, which I recently used to help a non-technical startup team build and launch a real-estate product.
 
 
 
 ### Stack
 
 **Languages:** TypeScript · JavaScript · Python · C#
-**Backend:** Node.js · Express · Django · DRF · REST APIs · GraphQL
+**Backend:** Node.js · Express · Django · DRF · GraphQL
 **Frontend:** React · Next.js · React Native · Redux · Tailwind CSS · Styled Components
-**Data & Architecture:** PostgreSQL · MySQL · SQLite · System Design · Data Modeling
+**Data:** PostgreSQL · MySQL · SQLite
 **Infra & Tooling:** Docker · Linux · Git · Jest · Storybook
 
 ### Currently
 
 🌎 Based in Brazil, open to remote work with international teams
-💬 Happy to talk software architecture, terminal workflows, AI integrations, or design systems
+💬 Happy to talk backend, fullstack, or design systems
 📫 Reach out at arthurdaquinosilva@gmail.com
