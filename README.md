@@ -33,6 +33,6 @@ I build with an AI-assisted workflow, documented in my **Product Development Fra
 
 ## 📫 Get in touch
 
-Based in Fortaleza, Brazil (UTC-3), **open to senior fullstack roles on remote international teams**.
+Based in Eusébio, Ceará, Brazil (UTC-3), **open to mid-level and senior fullstack roles on remote international teams**.
 
 [Email](mailto:arthurdaquinosilva@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arthur-antunes-de-aquino-silva)
