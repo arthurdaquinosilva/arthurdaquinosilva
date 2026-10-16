@@ -1,6 +1,6 @@
 # Hi, I'm Arthur 👋
 
-**Senior fullstack engineer** with 8+ years building production systems in **TypeScript** and **Python** for e-commerce, advertising, and SaaS products. I live in the terminal, so I build tools for it.
+I'm a fullstack engineer with 8+ years of experience on product teams, building web applications in **TypeScript** and **Python** for e-commerce, advertising, and SaaS companies. I live in the terminal, so I build tools for it.
 
 ## 🛠 Terminal tools I built
 
@@ -17,8 +17,8 @@ I build with an AI-assisted workflow, documented in my **Product Development Fra
 
 ## 💼 What I do
 
-- **Backend & data:** REST APIs with Django/DRF and Node.js, documented in OpenAPI. Data modeling, schema normalization, and query tuning in PostgreSQL and MySQL. At Deviget, I rebuilt the data layer of a high-volume advertising platform.
-- **Frontend & design:** React, Next.js, and React Native. I started as a graphic designer, so I prototype in Figma and take features to production without a handoff gap.
+- **Backend & data:** REST APIs with Django/DRF and Node.js, documented in OpenAPI. Data modeling, schema normalization, and query tuning in PostgreSQL and MySQL. At Deviget, I was part of the team that rebuilt the data layer of a high-volume advertising platform.
+- **Frontend & design:** React, Next.js, and React Native. I started as a graphic designer, so I enjoy prototyping in Figma with designers and product people before writing code.
 - **AI in products:** currently freelancing on a mobile app for a nutrition practice that turns assessment results into plain-language PDF reports for patients.
 - **Teaching:** writing a book series that teaches Brazilians to code. 🇧🇷
 
