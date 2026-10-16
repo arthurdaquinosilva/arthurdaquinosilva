@@ -1,38 +1,38 @@
 # Hi, I'm Arthur 👋
 
-I'm a fullstack engineer with over 7 years of experience, primarily working in TypeScript and Python. I've spent most of my career building production systems for the e-commerce and advertising sectors.
+**Senior fullstack engineer** with 8+ years building production systems in **TypeScript** and **Python** for e-commerce, advertising, and SaaS products. I live in the terminal, so I build tools for it.
 
-### What I work on
+## 🛠 Terminal tools I built
 
-* **Backend & Data:** I build REST APIs with Django/DRF and Node.js, and document them using Swagger/OpenAPI to keep team integrations clear. On the database side, I work with PostgreSQL and MySQL, handling data modeling, schema normalization, and query optimization for high-volume environments.
+Each one is published, tested in CI, and documented.
 
+| Project | What it does | Stack |
+|---|---|---|
+| [**Querky**](https://github.com/arthurdaquinosilva/querky) | Terminal SQL client for PostgreSQL, MySQL, and SQLite with schema-aware autocomplete, vim mode, query aliases, and AI query explanation (Groq/Ollama) | TypeScript · npm |
+| [**ember**](https://github.com/arthurdaquinosilva/ember) | Interactive Python shell compatible with the IPython ecosystem (magics, extensions), with type-inferred live signatures | Python · PyPI |
+| [**cinder**](https://github.com/arthurdaquinosilva/cinder) | JavaScript/TypeScript REPL with ember's UX: native TypeScript, interruptible async code, and DevTools debugging | TypeScript · npm |
+| [**shtick**](https://github.com/arthurdaquinosilva/shtick) | Notebook-style playground for shell scripts with step-through tracing, live linting, sandboxed runs, and CI-ready assertions | Python · PyPI |
 
-* **Frontend & Design:** I build interfaces using React, Next.js, and React Native. Because my background is in graphic design, I pay close attention to the UX implications of technical decisions and often use Figma to prototype and clarify requirements alongside implementation.
+I build with an AI-assisted workflow, documented in my **Product Development Framework with AI**: an 11-phase, agent-agnostic process for taking software from idea to release (English and Portuguese).
 
+## 💼 What I do
 
-* **Architecture & Tooling:** Recently, I have dedicated time to studying system design and software architecture to better evaluate trade-offs in distributed systems. This has involved building open-source developer tools and applying AI-driven frameworks to guide product development.
+- **Backend & data:** REST APIs with Django/DRF and Node.js, documented in OpenAPI. Data modeling, schema normalization, and query tuning in PostgreSQL and MySQL. At Deviget, I rebuilt the data layer of a high-volume advertising platform.
+- **Frontend & design:** React, Next.js, and React Native. I started as a graphic designer, so I prototype in Figma and take features to production without a handoff gap.
+- **AI in products:** currently freelancing on a mobile app for a nutrition practice that turns assessment results into plain-language PDF reports for patients.
+- **Teaching:** writing a book series that teaches Brazilians to code. 🇧🇷
 
+## 🧰 Stack
 
+**Languages:** TypeScript · JavaScript · Python · SQL<br>
+**Backend:** Node.js · Express · Django · DRF · GraphQL · OpenAPI<br>
+**Frontend:** React · Next.js · React Native · Redux · Tailwind CSS · Styled Components<br>
+**Data:** PostgreSQL · MySQL · SQLite<br>
+**Testing & delivery:** Jest · pytest · GitHub Actions · Docker · npm/PyPI publishing<br>
+**Design:** Figma · design systems
 
-### Recent Open Source
+## 📫 Get in touch
 
-* **Querky:** A terminal-based SQL client built in TypeScript, featuring schema-aware autocomplete, vim mode, and AI-powered query explanations via Groq/Ollama.
+Based in Fortaleza, Brazil (UTC-3), **open to senior fullstack roles on remote international teams**.
 
-
-* **Product Development Framework with AI:** An 11-phase framework published in English and Portuguese, which I recently used to help a non-technical startup team build and launch a real-estate product.
-
-
-
-### Stack
-
-**Languages:** TypeScript · JavaScript · Python · C#
-**Backend:** Node.js · Express · Django · DRF · GraphQL
-**Frontend:** React · Next.js · React Native · Redux · Tailwind CSS · Styled Components
-**Data:** PostgreSQL · MySQL · SQLite
-**Infra & Tooling:** Docker · Linux · Git · Jest · Storybook
-
-### Currently
-
-🌎 Based in Brazil, open to remote work with international teams
-💬 Happy to talk backend, fullstack, or design systems
-📫 Reach out at arthurdaquinosilva@gmail.com
+[Email](mailto:arthurdaquinosilva@gmail.com) · [LinkedIn](https://www.linkedin.com/in/arthur-antunes-de-aquino-silva)
