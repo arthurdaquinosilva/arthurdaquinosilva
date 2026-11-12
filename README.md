@@ -4,7 +4,7 @@ Most of my work has been on React/Next.js frontends with Django or Node.js backe
 
 I started my career in graphic design, and it still shapes how I work: I like sketching ideas in Figma with designers and product people before writing code.
 
-These days I’m freelancing on a mobile app for a nutrition practice, where AI helps turn assessment results into reports patients can understand. I also build open-source terminal tools (Querky, ember, cinder, and shtick), and I’m writing a book series to help Brazilians learn to code.
+These days I’m freelancing on a mobile app for a nutrition practice, where AI helps turn assessment results into reports patients can understand.
 
 I enjoy teams where people share what they know, and I’m always glad to learn from others. I’m based in Eusébio, Brazil, speak English fluently, and I’m open to mid-level or senior fullstack roles on remote teams.
 
